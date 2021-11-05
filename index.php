@@ -34,10 +34,10 @@
                 <div class="banner-bottom">
                     <div class="banner-matter">
                         <p>Childish Gambino - Camp Now Available for just $9.99</p>
-                        <a href="single.html" class="hvr-shutter-in-vertical ">Purchase</a>
+                        <a href="single.html" class="hvr-shutter-in-vertical ">Purchases</a>
                     </div>
                     <div class="purchase">
-                        <a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2 ">Purchase</a>
+                        <a href="single.html" class="hvr-shutter-in-vertical hvr-shutter-in-vertical2 ">Purchases</a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
